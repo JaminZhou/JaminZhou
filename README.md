@@ -1,6 +1,6 @@
 # JaminZhou
 
-Independent Apple platform developer building calm, focused software.
+Independent developer designing small tools with a calm center.
 
 Apple WWDC 2014 Student Scholarship Winner.
 
@@ -8,15 +8,15 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ## Current focus
 
-- Shipping [Rouse](https://jaminzhou.com/rouse/), a calm macOS wake-control app with a menu bar Quick Panel and Dashboard.
-- Building small utilities and workflow tooling for Apple platforms.
+- Shipping [Rouse](https://jaminzhou.com/rouse/), a macOS utility for keeping your Mac awake during AI agents, long downloads, exports, presentations, and other long-running work.
+- Building focused apps and workflow utilities for Apple platforms.
 - Keeping products clear, fast, and useful without turning them into control panels.
 
 ## Featured project
 
 ### Rouse
 
-Rouse gives your Mac quick wake controls from the menu bar, then expands into a richer dashboard for timed sessions, display sleep control, and battery-aware rules.
+Rouse keeps your Mac awake with a fast menu bar toggle and a calm dashboard for timed sessions, display sleep handling, battery protection, and other richer controls when you need them.
 
 - [Download on the Mac App Store](https://apps.apple.com/us/app/rouse-stay-awake/id6760773101?mt=12)
 - [Visit the product page](https://jaminzhou.com/rouse/)
@@ -30,3 +30,4 @@ Rouse gives your Mac quick wake controls from the menu bar, then expands into a 
 - [LinkedIn](https://linkedin.com/in/jaminzhou)
 - [Dribbble](https://dribbble.com/JaminZhou)
 - [Medium](https://medium.com/@jaminzhou/)
+- [Instagram](https://www.instagram.com/JaminZhou/)

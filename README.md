@@ -16,7 +16,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ### Rouse
 
-Rouse keeps your Mac awake with a fast menu bar toggle, a calm dashboard for richer controls, and an official CLI for Terminal, scripts, and local automation.
+Rouse keeps your Mac awake with a fast menu bar toggle, a calm dashboard for timed sessions, display sleep, and battery-aware controls, plus an official CLI for Terminal, scripts, and local automation.
 
 - [Download on the Mac App Store](https://apps.apple.com/us/app/rouse-stay-awake/id6760773101?mt=12)
 - [Visit the product page](https://jaminzhou.com/rouse/)

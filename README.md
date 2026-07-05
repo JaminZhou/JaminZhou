@@ -4,7 +4,7 @@ Independent developer designing small tools with a calm center.
 
 Apple WWDC 2014 Student Scholarship Winner.
 
-[Website](https://jaminzhou.com) · [CalcBird on the App Store](https://apps.apple.com/app/id6762044720) · [Rouse on the Mac App Store](https://apps.apple.com/us/app/rouse-stay-awake/id6760773101?mt=12) · [Email](mailto:me@jaminzhou.com)
+[Website](https://jaminzhou.com) · [App Store](https://apps.apple.com/app/id6762044720) · [Rouse on the Mac App Store](https://apps.apple.com/us/app/rouse-stay-awake/id6760773101?mt=12) · [Email](mailto:me@jaminzhou.com)
 
 ## Current focus
 

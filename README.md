@@ -8,7 +8,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ## Current focus
 
-- Shipping [CalcBird](https://jaminzhou.com/calcbird/), an iOS shopping calculator for comparing unit prices across package sizes, currencies, coupons, deposits, and discounts.
+- Shipping [CalcBird](https://jaminzhou.com/calcbird/), an iPhone and iPad shopping calculator for comparing unit prices across package sizes, currencies, coupons, deposits, and discounts.
 - Shipping [Rouse](https://jaminzhou.com/rouse/), a macOS utility for keeping your Mac awake during AI agents, long downloads, exports, presentations, and other long-running work.
 - Building focused apps and workflow utilities for Apple platforms.
 - Keeping products clear, fast, and useful without turning them into control panels.
@@ -17,7 +17,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ### CalcBird
 
-CalcBird is a focused iPhone shopping helper for calculating and comparing real unit prices when package sizes, currencies, coupons, deposits, and full-reduction discounts make the shelf price hard to trust.
+CalcBird is a focused iPhone and iPad shopping helper for calculating and comparing real unit prices when package sizes, currencies, coupons, deposits, and full-reduction discounts make the shelf price hard to trust. The iPad app can also run in Designed for iPad mode on compatible Apple silicon Macs.
 
 - [Download on the App Store](https://apps.apple.com/app/id6762044720)
 - [Visit the product page](https://jaminzhou.com/calcbird/)

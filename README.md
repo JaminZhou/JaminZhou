@@ -11,7 +11,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 - Shipping [PriceBird](https://jaminzhou.com/pricebird/), an iPhone and iPad shopping calculator for comparing unit prices across package sizes, currencies, coupons, deposits, and discounts.
 - Shipping [Rouse](https://jaminzhou.com/rouse/), a macOS utility for keeping your Mac awake during AI agents, long downloads, exports, presentations, and other long-running work.
 - Shipping [Hushtrail](https://jaminzhou.com/hushtrail/), a native Mac utility for clearing selected app history and reviewing uninstall leftovers.
-- Preparing [Trailglass](https://jaminzhou.com/trailglass/), a native macOS app for exploring local AI-agent sessions. Approved for the Mac App Store; coming soon.
+- Shipping [Trailglass](https://jaminzhou.com/trailglass/), a native macOS app for exploring local AI-agent sessions, now available on the Mac App Store.
 - Building focused apps and workflow utilities for Apple platforms.
 - Keeping products clear, fast, and useful without turning them into control panels.
 
@@ -44,9 +44,9 @@ Hushtrail 0.1.1 clears selected app history and helps review possible leftovers 
 
 ### Trailglass
 
-Trailglass helps you understand local AI-agent sessions through conversations, tool activity, and the original JSON in a native macOS workspace. Version 1.0.0 has been approved for the Mac App Store and is awaiting release.
+Trailglass helps you understand local AI-agent sessions through conversations, tool activity, and the original JSON in a native macOS workspace. Version 1.0.0 is available on the Mac App Store.
 
-- Coming soon on the Mac App Store
+- [Download on the Mac App Store](https://apps.apple.com/app/id6792468194?mt=12)
 - [Visit the product page](https://jaminzhou.com/trailglass/)
 - [Support](https://jaminzhou.com/trailglass/support/) · [Privacy](https://jaminzhou.com/trailglass/privacy/)
 

@@ -8,7 +8,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ## Current focus
 
-- Shipping [CalcBird](https://jaminzhou.com/calcbird/), an iPhone and iPad shopping calculator for comparing unit prices across package sizes, currencies, coupons, deposits, and discounts.
+- Shipping [PriceBird](https://jaminzhou.com/pricebird/), an iPhone and iPad shopping calculator for comparing unit prices across package sizes, currencies, coupons, deposits, and discounts.
 - Shipping [Rouse](https://jaminzhou.com/rouse/), a macOS utility for keeping your Mac awake during AI agents, long downloads, exports, presentations, and other long-running work.
 - Shipping [Hushtrail](https://jaminzhou.com/hushtrail/), a native Mac utility for clearing selected app history and reviewing uninstall leftovers.
 - Building focused apps and workflow utilities for Apple platforms.
@@ -16,13 +16,13 @@ Apple WWDC 2014 Student Scholarship Winner.
 
 ## Featured projects
 
-### CalcBird
+### PriceBird
 
-CalcBird is a focused iPhone and iPad shopping helper for calculating and comparing real unit prices when package sizes, currencies, coupons, deposits, and full-reduction discounts make the shelf price hard to trust. The iPad app can also run in Designed for iPad mode on compatible Apple silicon Macs.
+PriceBird is a focused iPhone and iPad shopping helper for calculating and comparing real unit prices when package sizes, currencies, coupons, deposits, and full-reduction discounts make the shelf price hard to trust. The iPad app can also run in Designed for iPad mode on compatible Apple silicon Macs.
 
 - [Download on the App Store](https://apps.apple.com/app/id6762044720)
-- [Visit the product page](https://jaminzhou.com/calcbird/)
-- [Support](https://jaminzhou.com/calcbird/support/) · [Privacy](https://jaminzhou.com/calcbird/privacy/)
+- [Visit the product page](https://jaminzhou.com/pricebird/)
+- [Support](https://jaminzhou.com/pricebird/support/) · [Privacy](https://jaminzhou.com/pricebird/privacy/)
 
 ### Rouse
 

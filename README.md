@@ -44,7 +44,7 @@ Hushtrail 0.1.1 clears selected app history and helps review possible leftovers 
 
 ### Trailglass
 
-Trailglass helps you understand local AI-agent sessions through conversations, tool activity, and the original JSON in a native macOS workspace. Version 1.0.0 is available on the Mac App Store.
+Trailglass helps you understand local AI-agent sessions through conversations, tool activity, and the original JSON in a native macOS workspace. Version 1.0.1 is available on the Mac App Store, with storage usage in Settings and automatic database space reclamation.
 
 - [Download on the Mac App Store](https://apps.apple.com/app/id6792468194?mt=12)
 - [Visit the product page](https://jaminzhou.com/trailglass/)

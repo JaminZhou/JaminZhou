@@ -36,9 +36,9 @@ Rouse keeps your Mac awake with a fast menu bar toggle, a calm dashboard for tim
 
 ### Hushtrail
 
-Hushtrail 0.1.2 clears selected app history and helps review possible leftovers from apps you no longer use. It remembers chosen apps, explains items it keeps, and moves selected leftovers to macOS Trash. English and Simplified Chinese; requires macOS 27.0 or later. Finder capabilities currently require macOS 27.0.0.
+Hushtrail 0.1.3 clears selected app history and helps review possible leftovers from apps you no longer use. It remembers chosen apps, explains items it keeps, and moves selected leftovers to macOS Trash. English and Simplified Chinese; requires macOS 27.0 or later. Finder capabilities check actual formats and metadata without an exact macOS version gate.
 
-- [Download for Mac and read release notes](https://github.com/JaminZhou/hushtrail-releases/releases/tag/v0.1.2)
+- [Download for Mac and read release notes](https://github.com/JaminZhou/hushtrail-releases/releases/tag/v0.1.3)
 - [Visit the product page](https://jaminzhou.com/hushtrail/)
 - [Support](https://jaminzhou.com/hushtrail/support/) · [Privacy](https://jaminzhou.com/hushtrail/privacy/)
 

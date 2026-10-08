@@ -12,6 +12,7 @@ Apple WWDC 2014 Student Scholarship Winner.
 - Shipping [Rouse](https://jaminzhou.com/rouse/), a macOS utility for keeping your Mac awake during AI agents, long downloads, exports, presentations, and other long-running work.
 - Shipping [Hushtrail](https://jaminzhou.com/hushtrail/), a native Mac utility for clearing selected app history and reviewing uninstall leftovers.
 - Shipping [Trailglass](https://jaminzhou.com/trailglass/), a native macOS app for exploring local AI-agent sessions, now available on the Mac App Store.
+- Shipping [Aperlo](https://jaminzhou.com/aperlo/), a free native Mac image viewer for browsing pictures and folders without importing a library.
 - Building focused apps and workflow utilities for Apple platforms.
 - Keeping products clear, fast, and useful without turning them into control panels.
 
@@ -49,6 +50,16 @@ Trailglass helps you understand local AI-agent sessions through conversations, t
 - [Download on the Mac App Store](https://apps.apple.com/app/id6792468194?mt=12)
 - [Visit the product page](https://jaminzhou.com/trailglass/)
 - [Support](https://jaminzhou.com/trailglass/support/) · [Privacy](https://jaminzhou.com/trailglass/privacy/)
+
+### Aperlo
+
+<img src="https://jaminzhou.com/aperlo/app-icon.png" alt="Aperlo app icon" width="64" height="64">
+
+Aperlo 1.0.0 is a native Mac image viewer for opening pictures, browsing folders, and enjoying slideshows. Free viewing features, optional support purchases, and support for English, Simplified Chinese, Traditional Chinese, and Japanese. Requires macOS 14 or later.
+
+- [Download on the Mac App Store](https://apps.apple.com/app/id6818555323?mt=12)
+- [Visit the product page](https://jaminzhou.com/aperlo/)
+- [Support](https://jaminzhou.com/aperlo/support/) · [Privacy](https://jaminzhou.com/aperlo/privacy/)
 
 ## Around the web
 

@@ -55,7 +55,7 @@ Trailglass helps you understand local AI-agent sessions through conversations, t
 
 <img src="https://jaminzhou.com/aperlo/app-icon.png" alt="Aperlo app icon" width="64" height="64">
 
-Aperlo 1.0.0 is a native Mac image viewer for opening pictures, browsing folders, and enjoying slideshows. Free viewing features, optional support purchases, and support for English, Simplified Chinese, Traditional Chinese, and Japanese. Requires macOS 14 or later.
+Aperlo 1.0.1 is a native Mac image viewer for opening pictures, browsing folders, and enjoying slideshows. Free viewing features, optional support purchases, and support for English, Simplified Chinese, Traditional Chinese, and Japanese. Requires macOS 14 or later.
 
 - [Download on the Mac App Store](https://apps.apple.com/app/id6818555323?mt=12)
 - [Visit the product page](https://jaminzhou.com/aperlo/)

@@ -13,3 +13,4 @@ Apple WWDC 2014 Student Scholarship Winner.
 - [PriceBird](https://jaminzhou.com/pricebird/) — Compare unit prices across package sizes, currencies, and discounts on iPhone and iPad.
 - [Trailglass](https://jaminzhou.com/trailglass/) — Explore local AI-agent conversations and tool activity in a native Mac app.
 - [Hushtrail](https://jaminzhou.com/hushtrail/) — Clear selected app history and review possible uninstall leftovers on your Mac.
+- [FIRE](https://jaminzhou.com/fire/) — Keep your financial independence goal in sight with widgets.
